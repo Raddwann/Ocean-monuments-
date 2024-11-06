@@ -1,2 +1,2 @@
-# Ocean-monuments
-Ocean monuments image enhancement
+# Underwater image enhancement
+Underwater image enhancement
